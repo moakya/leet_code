@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/count_good_nodes_BT" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/jumping_game" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sign_array_product" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unique_char_count_deletion" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
